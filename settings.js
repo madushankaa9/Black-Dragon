@@ -14,23 +14,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['94786802371'] //ur owner number
-global.ownername = "Nimesh Official" //ur owner name
-global.ytname = "YT: HELA CLOUD" //ur yt chanel name
-global.socialm = "GitHub: nimaofficial" //ur github or insta name
-global.location = "Sri Lanka, Colombo, Kiribathgoda" //ur location
+global.owner = ['94784153052'] //ur owner number
+global.ownername = "9tㅤＤexter★" //ur owner name
+global.ytname = "9tㅤＤexter★" //ur yt chanel name
+global.socialm = "GitHub: 9tㅤＤexter★" //ur github or insta name
+global.location = "Sri Lanka, badulla ,bandarawela" //ur location
 
 //bot bomdy 
-global.ownernomer = "94786802371" //ur number
-global.premium = ['94786802371'] //ur premium number
-global.botname = 'BLACK DRAGON' //ur bot name
-global.linkz = "https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS" //your theme url which will be displayed on whatsapp
-global.websitex = "https://www.helacloud.ga" //ur website to be displayed
-global.botscript = 'https://github.com/nimaofficial/Black-Dragon' //script link
+global.ownernomer = "94784153052" //ur number
+global.premium = ['94784153052'] //ur premium number
+global.botname = '9tㅤＤexter★' //ur bot name
+global.linkz = "https://chat.whatsapp.com/DkSRUUm2o5q9AFvUKurlow" //your theme url which will be displayed on whatsapp
+global.websitex = "https://youtube.com/@cybersuddha1204" //ur website to be displayed
+global.botscript = 'https://www.facebook.com/profile.php?id=100078175149491' //script link
 global.themeemoji = "❤️" //ur theme emoji
-global.packname = "Sticker By Black Dragon" //ur sticker watermark packname
-global.author = "Nimesh Official" //ur sticker watermark author
-global.wm = "𝗕𝗟𝗔𝗖𝗞 𝗗𝗥𝗔𝗚𝗢𝗡 𝗜𝗡𝗖" //ur watermark
+global.packname = "Sticker By 9tㅤＤexter★" //ur sticker watermark packname
+global.author = "9tㅤＤexter★" //ur sticker watermark author
+global.wm = "Ｄexter★" //ur watermark
 
 // Other
 global.sessionName = 'session'
